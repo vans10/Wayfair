@@ -12,6 +12,7 @@ This case study investigates the effectiveness of Wayfair's "Ships in Time" holi
 
 ###  Why This Matters  
 Wayfair’s holiday logistics are expensive and complex. Understanding if the guarantee increases average order value (AOV) and reduces cancellations helps justify its continuation or refinement. By examining visitor types and cancellation trends across categories, the company can better allocate marketing resources and tailor delivery strategies.
+![image](https://github.com/user-attachments/assets/e696fa65-4848-4f92-981e-17b096940db2)
 
 ---
 
