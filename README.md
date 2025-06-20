@@ -1,6 +1,6 @@
 #  Wayfair Case Study: Evaluating the "Ships in Time" Guarantee
 
-This case study investigates the effectiveness of Wayfair's "Ships in Time" holiday campaign using A/B testing data from the 2016 Christmas season. The goal was to assess whether the delivery guarantee impacted customer behavior—specifically in terms of spending and order cancellations. Our analysis, powered by Tableau visualizations and cohort segmentation, helps quantify the campaign’s impact across visitor types and product categories.
+This case study investigates the effectiveness of Wayfair's "Ships in Time" holiday campaign using A/B testing data from the 2016 Christmas season. The goal was to assess whether the delivery guarantee impacted customer behavior—specifically in terms of spending and order cancellations. The analysis, powered by Tableau visualizations and cohort segmentation, helps quantify the campaign’s impact across visitor types and product categories.
 
  **Business Use Case**: Campaign performance analysis, revenue optimization, logistics management
 
@@ -17,7 +17,7 @@ Wayfair’s holiday logistics are expensive and complex. Understanding if the gu
 
 ## 2.  Exploratory Data Analysis (EDA)
 
-We analyzed cancellation trends by product category and visitor type.  
+I analyzed cancellation trends by product category and visitor type.  
 Key findings include:
 - **Bedding** had the highest overall cancellation rate (~13%), followed by **Decorative Accents** (~8%).
 - **Activated Customers** showed the highest cancellation rates across all product categories.
@@ -27,7 +27,7 @@ Key findings include:
 
 ## 3.  Campaign Effectiveness Analysis
 
-We focused on two primary metrics to assess the impact of the guarantee:
+I focused on two primary metrics to assess the impact of the guarantee:
 
 ###  Metric 1: Average Order Value (AOV)
 - **New Visitors**: +9% AOV with guarantee  
